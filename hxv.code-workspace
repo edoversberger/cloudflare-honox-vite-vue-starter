@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "honox",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../my-vue-app/src"
+		}
+	]
+}
